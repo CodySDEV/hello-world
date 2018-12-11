@@ -1,5 +1,5 @@
 # hello-world
-First Repository
+
 Hello,
 
 Cody here!
